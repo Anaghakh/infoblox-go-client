@@ -68,8 +68,8 @@ This library is compatible with Go 1.2+
    * GetUpgradeStatus (2.7 or above)
 
 ### New Methods
-   * GET A, AAAA, PTR, MX, SRV, Alias, TXT Records by Reference, Name or other search false
-   * DELETE A, AAAA, PTR, MX, SRV, Alias, TXT Records by Reference, Name or other search false
+   * GET A, AAAA, PTR, MX, SRV, Alias, TXT Records by Reference, Name or other search fields
+   * DELETE A, AAAA, PTR, MX, SRV, Alias, TXT Records by Reference, Name or other search fields
    * UPDATE A, AAAA, PTR, MX, SRV, Alias, TXT Records by Reference
    * CRUD Operations on vDiscovery Task and AWS Route53 Task Group 
 
